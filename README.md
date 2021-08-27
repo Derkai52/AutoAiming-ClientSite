@@ -1,4 +1,4 @@
-# 本代码为 AutoAiming 客户端，AutoAiming 运算端详见[ AutoAiming-ComputSite](https://gitee.com/Derkai52/yolov4-tiny-autoaiming)
+## 本代码为 AutoAiming 客户端，AutoAiming 运算端详见[ AutoAiming-ComputSite](https://gitee.com/Derkai52/yolov4-tiny-autoaiming)
 
 ![image-20210828013134657](https://gitee.com/Derkai52/image/raw/master/image/202108280131844.png)
 
