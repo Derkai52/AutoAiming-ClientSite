@@ -1,4 +1,4 @@
-# Yolo-AutoAiming
+# 本代码为 AutoAiming 客户端，AutoAiming 运算端详见[ AutoAiming-ComputSite](https://gitee.com/Derkai52/yolov4-tiny-autoaiming)
 
 ![image-20210828013134657](https://gitee.com/Derkai52/image/raw/master/image/202108280131844.png)
 
@@ -44,7 +44,7 @@
 
 **3、网络模型：YoloV4-Tiny**
 
-> 网络模型信息详见：ReadMe_Model.txt
+> 网络模型信息详见：[AutoAiming-ComputSite](https://gitee.com/Derkai52/yolov4-tiny-autoaiming)
 
 
 
